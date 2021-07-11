@@ -9,7 +9,7 @@ I also like to learn about all kinds of tools that improves the development proc
 💞️ I’m looking to collaborate on a open source project. Love RN community and I'd like to give back a little bit
 
 📫 How to reach me ?
-https://www.linkedin.com/in/brunomartinez16/
+https://www.linkedin.com/in/brunomartinezciompi/
 
 <!---
 brunomartinezciompi/brunomartinezciompi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
